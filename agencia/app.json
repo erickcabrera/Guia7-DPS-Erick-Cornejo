@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "agencia",
+    "slug": "agencia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9f04e7fa-8e2b-4d41-a63d-7d91881e9215"
+      }
+    }
+  },
+  "name": "agencia"
+}
